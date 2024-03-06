@@ -1,3 +1,6 @@
 [submodule "vendor/clog"]
 	path = vendor/clog
 	url = https://github.com/TheHerowither/CLog
+[submodule "vendor/SDL"]
+	path = vendor/SDL
+	url = https://github.com/libsdl-org/SDL
